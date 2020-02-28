@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E93D0B1F232FD1070041A0AD /* OperationType.swift in Sources */ = {isa = PBXBuildFile; fileRef = E93D0B1E232FD1070041A0AD /* OperationType.swift */; };
 		E9BC383E232FB97F00E55737 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9BC383D232FB97F00E55737 /* AppDelegate.swift */; };
 		E9BC3840232FB97F00E55737 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9BC383F232FB97F00E55737 /* SceneDelegate.swift */; };
 		E9BC3842232FB97F00E55737 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9BC3841232FB97F00E55737 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E93D0B1E232FD1070041A0AD /* OperationType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperationType.swift; sourceTree = "<group>"; };
 		E9BC383A232FB97F00E55737 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9BC383D232FB97F00E55737 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9BC383F232FB97F00E55737 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				E9BC383D232FB97F00E55737 /* AppDelegate.swift */,
 				E9BC383F232FB97F00E55737 /* SceneDelegate.swift */,
 				E9BC3841232FB97F00E55737 /* ContentView.swift */,
+				E93D0B1E232FD1070041A0AD /* OperationType.swift */,
 				E9BC3843232FB98000E55737 /* Assets.xcassets */,
 				E9BC3848232FB98000E55737 /* LaunchScreen.storyboard */,
 				E9BC384B232FB98000E55737 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9BC383E232FB97F00E55737 /* AppDelegate.swift in Sources */,
+				E93D0B1F232FD1070041A0AD /* OperationType.swift in Sources */,
 				E9BC3840232FB97F00E55737 /* SceneDelegate.swift in Sources */,
 				E9BC3842232FB97F00E55737 /* ContentView.swift in Sources */,
 			);
